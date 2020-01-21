@@ -119,7 +119,7 @@
         - Addition of ldap_payloads at the payload-db.
         - Other minor bug fixes.
 
-    * v1.4.0 [latest release] (#stable)
+    * v1.4.0 
 
 	Big release with lots of changes.
 
@@ -130,3 +130,77 @@
 	- Major ImportError bug fixes.
 	- Re-written 6 major modules for efficiency.
  
+    * v1.5.0 
+
+	Wholesome release with 8 new modules.
+
+	Changelog:
+	- Addition of 5 new modules under ActiveRecon Phase.
+	- Addition of 3 new modules under Vulnerability Analysis.
+	- Bug fixes to the BruteMods module.
+	- Most of PassiveRecon Phase modules rewritten for the better.
+	- Lastly, some minor bug fixes and stuff.
+
+    * v1.5.1 
+
+	Small minor release with 5 new modules.
+
+	Changelog:
+	- Separated the auxillaries from mainstream phase.
+	- Addition of 2 new modules to auxillaries.
+	- Addition of 3 new modules under OSINT.
+	- Minor bug fixes.
+	- Code optimised for better threading.
+	- Removal of lots of unnecessary code.
+
+    * v1.5.2
+
+	Addition of 2 new modules and picks to mainstream framework.
+
+	Changelog:
+	- TIDoS Framework now boasts of a century of modules.
+	- A new module added under Passive Recon.
+	- Full Contact Module saw its final touch.
+	- Another new module added under Auxillaries.
+	- Few bug fixes and stuff.
+
+    * v1.6.0
+
+	Addition of 4 new modules and overall change in build structure to mainstream framework.
+
+	Changelog:
+	- TIDoS Framework now has a better build infrastructure.
+	- 2 new module added under ActiveRecon Phase.
+	- A new module addition to VulnLysis/SerioBugs.
+	- Another new module got featured in Auxillaries.
+	- Few bug fixes and stuff.
+
+    * v1.6.1
+
+	Huge bug fixes + Addition of a new module.
+	
+	Changelog:
+	- A new module added under ScanEnum phase.
+	- Huge bug fixes to #22.
+	- TIDoS is now becoming more modular.
+	- Enhancements to some auxillaries.
+
+    * v1.6.2 [latest release] (#stable)
+
+	Minor release with small bug fixes and module enhncements.
+
+	Changelog:
+	- Almost 100% code refactors to Information Disclosure modules.
+	- Efficiency of InfoDisc Phase modules highly uplifted.
+	- Migration from Python2 to Python3 is on the roll.
+	- Small bug fixes (as usual). 
+
+    * v1.7.0
+
+	Some major changes to pre-existing code infrastructure.
+
+	Changelog:
+	- The best part of it is that, TIDoS now has all API keys set by default!
+	- Basic changes to code structure.
+	- Included Travis CI integration to TIDoS.
+	- Some major bug fixes and other stuff (as usual).
